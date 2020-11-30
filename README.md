@@ -1,3 +1,4 @@
 # hello-world-s
 kokos jest owocem
-mam  8lat  
+kokos jest twardy
+rośnie   na  palmie
